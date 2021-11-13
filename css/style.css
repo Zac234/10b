@@ -1,0 +1,27 @@
+#datbug{
+    display: none;
+
+}
+
+#red_button{
+    background-color: red;
+    
+}
+
+#charizard {
+    width:200px;
+    height: 200px;
+    background-color: white;
+    border: white;
+    
+}    
+
+#sprite{
+    width: 200px;
+    height: 200px;
+
+}
+#blue_button{
+    background-color: blue;
+    color: white;
+}
